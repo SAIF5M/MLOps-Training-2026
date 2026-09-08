@@ -1,0 +1,6 @@
+{
+    "baseline_roc_auc": 0.5,
+    "validation_roc_auc": 0.5821317566336257,
+    "test_roc_auc": 0.5767097352085454,
+    "model_type": "RandomForestClassifier"
+}
