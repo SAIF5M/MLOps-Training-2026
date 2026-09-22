@@ -1,0 +1,13 @@
+paths:
+  data_path: "data/"
+  models_path: "models/"
+  artifacts_path: "models/artifacts/"
+
+model:
+  name: "late_delivery_model"
+  version: "v1"
+
+database:
+  host: "localhost"
+  port: 5432
+  name: "olist_db"
